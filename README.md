@@ -56,9 +56,11 @@ File Browser and PDF Merger.ipynb : Python notebook containing the scripting sol
 ## Screenshots
 
 ![App Screenshot](screenshots/1.JPG?raw=true)
+Before Processing
 
 ![App Screenshot](screenshots/2.JPG?raw=true)
+Searching for files
 
 ![App Screenshot](screenshots/3.JPG?raw=true)
-
+Merging PDFs
 
