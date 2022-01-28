@@ -1,0 +1,106 @@
+2022-01-28 13:37:29,390 INFO GUI Initialized
+2022-01-28 13:37:29,393 INFO Label File Browser and PDF Merging Tool created
+2022-01-28 13:37:29,394 INFO Label Directory to Search created
+2022-01-28 13:37:29,395 INFO Entry widget with name : PY_VAR0 initialized
+2022-01-28 13:37:29,396 INFO Label Files Found created
+2022-01-28 13:37:29,397 INFO Text Box created
+2022-01-28 13:37:29,397 INFO button with name Search created
+2022-01-28 13:37:29,398 INFO button with name Merge PDFs created
+2022-01-28 13:37:29,398 INFO Label Status created
+2022-01-28 13:37:29,398 INFO Label PY_VAR1 created
+2022-01-28 13:37:39,469 INFO file search method called
+2022-01-28 13:37:39,469 INFO Processing for C:\Users\rachi\Desktop\PWC
+2022-01-28 13:37:40,373 INFO Processing succesful. Found 53 files
+2022-01-28 13:37:41,684 INFO merge_pdfs method called
+2022-01-28 13:37:50,706 INFO PDFs merged successfully
+2022-01-28 13:40:17,025 INFO GUI Initialized
+2022-01-28 13:40:17,028 INFO Label File Browser and PDF Merging Tool created
+2022-01-28 13:40:17,029 INFO Label Directory to Search created
+2022-01-28 13:40:17,029 INFO Entry widget with name : PY_VAR0 initialized
+2022-01-28 13:40:17,030 INFO Label Files Found created
+2022-01-28 13:40:17,031 INFO Text Box created
+2022-01-28 13:40:17,032 INFO button with name Search created
+2022-01-28 13:40:17,032 INFO button with name Merge PDFs created
+2022-01-28 13:40:17,033 INFO Label Status created
+2022-01-28 13:40:17,033 INFO Label PY_VAR1 created
+2022-01-28 13:40:19,941 INFO file search method called
+2022-01-28 13:40:19,941 INFO Processing for C:\Users\rachi\Desktop\PWC
+2022-01-28 13:40:20,819 INFO Processing successful. Found 53 files
+2022-01-28 13:40:22,205 INFO merge_pdfs method called
+2022-01-28 13:40:29,738 INFO PDFs merged successfully
+2022-01-28 13:41:32,892 INFO GUI Initialized
+2022-01-28 13:41:32,895 INFO Label File Browser and PDF Merging Tool created
+2022-01-28 13:41:32,896 INFO Label Directory to Search created
+2022-01-28 13:41:32,897 INFO Entry widget with name : PY_VAR0 initialized
+2022-01-28 13:41:32,898 INFO Label Files Found created
+2022-01-28 13:41:32,899 INFO Text Box created
+2022-01-28 13:41:32,900 INFO button with name Search created
+2022-01-28 13:41:32,900 INFO button with name Merge PDFs created
+2022-01-28 13:41:32,900 INFO Label Status created
+2022-01-28 13:41:32,901 INFO Label PY_VAR1 created
+2022-01-28 13:41:47,564 INFO file search method called
+2022-01-28 13:41:47,564 INFO Processing for C:\Users\rachi\Desktop\PWC
+2022-01-28 13:41:54,834 INFO Processing successful. Found 53 files
+2022-01-28 13:41:59,668 INFO merge_pdfs method called
+2022-01-28 13:42:07,651 INFO PDFs merged successfully
+2022-01-28 13:44:38,584 INFO GUI Initialized
+2022-01-28 13:44:38,587 INFO Label File Browser and PDF Merging Tool created
+2022-01-28 13:44:38,588 INFO Label Directory to Search created
+2022-01-28 13:44:38,588 INFO Entry widget with name : PY_VAR0 initialized
+2022-01-28 13:44:38,589 INFO Label Files Found created
+2022-01-28 13:44:38,590 INFO Text Box created
+2022-01-28 13:44:38,590 INFO button with name Search created
+2022-01-28 13:44:38,591 INFO button with name Merge PDFs created
+2022-01-28 13:44:38,591 INFO Label Status created
+2022-01-28 13:44:38,591 INFO Label PY_VAR1 created
+2022-01-28 13:45:28,666 INFO GUI Initialized
+2022-01-28 13:45:28,669 INFO Label File Browser and PDF Merging Tool created
+2022-01-28 13:45:28,670 INFO Label Directory to Search created
+2022-01-28 13:45:28,672 INFO Entry widget with name : PY_VAR0 initialized
+2022-01-28 13:45:28,673 INFO Label Files Found created
+2022-01-28 13:45:28,674 INFO Text Box created
+2022-01-28 13:45:28,676 INFO button with name Search created
+2022-01-28 13:45:28,676 INFO button with name Merge PDFs created
+2022-01-28 13:45:28,677 INFO Label Status created
+2022-01-28 13:45:28,677 INFO Label PY_VAR1 created
+2022-01-28 13:45:45,192 INFO GUI Initialized
+2022-01-28 13:45:45,194 INFO Label File Browser and PDF Merging Tool created
+2022-01-28 13:45:45,196 INFO Label Directory to Search created
+2022-01-28 13:45:45,196 INFO Entry widget with name : PY_VAR0 initialized
+2022-01-28 13:45:45,197 INFO Label Files Found created
+2022-01-28 13:45:45,197 INFO Text Box created
+2022-01-28 13:45:45,198 INFO button with name Search created
+2022-01-28 13:45:45,198 INFO button with name Merge PDFs created
+2022-01-28 13:45:45,199 INFO Label Status created
+2022-01-28 13:45:45,199 INFO Label PY_VAR1 created
+2022-01-28 14:52:46,779 INFO GUI Initialized
+2022-01-28 14:52:46,782 INFO Label File Browser and PDF Merging Tool created
+2022-01-28 14:52:46,784 INFO Label Directory to Search created
+2022-01-28 14:52:46,785 INFO Entry widget with name : PY_VAR0 initialized
+2022-01-28 14:52:46,786 INFO Label Files Found created
+2022-01-28 14:52:46,787 INFO Text Box created
+2022-01-28 14:52:46,788 INFO button with name Search created
+2022-01-28 14:52:46,788 INFO button with name Merge PDFs created
+2022-01-28 14:52:46,788 INFO Label Status created
+2022-01-28 14:52:46,788 INFO Label PY_VAR1 created
+2022-01-28 14:56:29,676 INFO file search method called
+2022-01-28 14:56:29,676 INFO Processing for C:\Users\rachi\Desktop\PWC
+2022-01-28 14:56:55,908 INFO Processing successful. Found 53 files
+2022-01-28 14:57:08,836 INFO file search method called
+2022-01-28 14:57:08,836 INFO Processing for C:\Users\rachi\Desktop\inueuron
+2022-01-28 14:57:17,107 INFO Processing successful. Found 297 files
+2022-01-28 14:57:19,729 INFO GUI Initialized
+2022-01-28 14:57:19,733 INFO Label File Browser and PDF Merging Tool created
+2022-01-28 14:57:19,735 INFO Label Directory to Search created
+2022-01-28 14:57:19,736 INFO Entry widget with name : PY_VAR0 initialized
+2022-01-28 14:57:19,737 INFO Label Files Found created
+2022-01-28 14:57:19,738 INFO Text Box created
+2022-01-28 14:57:19,739 INFO button with name Search created
+2022-01-28 14:57:19,739 INFO button with name Merge PDFs created
+2022-01-28 14:57:19,739 INFO Label Status created
+2022-01-28 14:57:19,740 INFO Label PY_VAR1 created
+2022-01-28 14:57:22,883 INFO file search method called
+2022-01-28 14:57:22,883 INFO Processing for C:\Users\rachi\Desktop\inueuron
+2022-01-28 14:57:45,883 INFO Processing successful. Found 297 files
+2022-01-28 14:57:46,844 INFO merge_pdfs method called
+2022-01-28 14:58:15,418 INFO PDFs merged successfully
