@@ -55,10 +55,10 @@ File Browser and PDF Merger.ipynb : Python notebook containing the scripting sol
 
 ## Screenshots
 
-![App Screenshot](/screenshots/1.jpg)
+![App Screenshot](screenshots/1.jpg?raw=true)
 
-![App Screenshot](/screenshots/2.jpg)
+![App Screenshot](screenshots/2.jpg?raw=true)
 
-![App Screenshot](/screenshots/3.jpg)
+![App Screenshot](screenshots/3.jpg?raw=true)
 
 
